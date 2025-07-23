@@ -5,10 +5,10 @@ const int builtInLed = 2;
 
 int setTurnSpeed = 1;
 
-const int m1Rpwm = 23; // d23 swivle base
-const int m1Lpwm = 22; // d22 swivle base
-const int m2Rpwm = 21; // d21 sholder arm
-const int m2Lpwm = 19; // d19 sholder arm
+const int m1Rpwm = 23; // d23 swivel base
+const int m1Lpwm = 22; // d22 swivel base
+const int m2Rpwm = 21; // d21 shoulder arm
+const int m2Lpwm = 19; // d19 shoulder arm
 const int m3Rpwm = 32; // d32 forward arm
 const int m3Lpwm = 33; // d33 forward arm
 const int m4Rpwm = 25; // d25 clamp hand
